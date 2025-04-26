@@ -20,6 +20,7 @@
 ---
 
 ### 🌟 **What I’m Up To:**  
+📚 **Sharing Ideas:** [Check out my Gists](https://gist.github.com/ajdunn2) for snippets, experiments, and mini-projects! ✨
 🌱 **Learning & Experimenting:** Always tinkering with new frameworks, tools, and game engines.   
 🤝 **Collaborating:** Open to ideas, partnerships, and helping with awesome projects!  
 
